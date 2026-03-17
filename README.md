@@ -1,5 +1,9 @@
 # 🤖 Robot Autónomo de Limpieza de Playas (Implementación con RL - RPi4)
 
+<p align="center">
+  <img src="assets/robot.gif" width="600"/>
+</p>
+
 Este repositorio contiene la implementación real del robot autónomo de limpieza de playas ejecutándose en una Raspberry Pi 4, utilizando modelos entrenados mediante Aprendizaje por Refuerzo (Reinforcement Learning).
 
 Este sistema permite ejecutar directamente en el robot modelos previamente entrenados, integrándose con ROS 2 para la percepción, control y navegación.
